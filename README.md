@@ -10,4 +10,4 @@
 - Download Latest Release
 - Unzip to empty directory
 - Run CScreen.exe
-- Enjoy :D
+- Enjoy :D!
