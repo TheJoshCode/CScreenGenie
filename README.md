@@ -1,5 +1,5 @@
+![](https://i.imgur.com/WkRCgPu.png)
 ![](https://i.imgur.com/5jhXoCd.png)
-![](https://i.imgur.com/I8aUgro.png)
 # Features
 
 - **Multiple Resolution Support**: Automatically resizes images to 360p, 720p, and 1080p resolutions.
