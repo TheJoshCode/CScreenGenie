@@ -7,12 +7,7 @@
 
 # Installation
 
-# Requirements
-
-- **Python 3.x**: Ensure you have Python 3 installed.
-- **PyInstaller**: For compiling the script into an executable.
-
-To install dependencies, run:
-
-```bash
-pip install -r requirements.txt
+- Download Latest Release
+- Unzip to empty directory
+- Run CScreen.exe
+- Enjoy :D
